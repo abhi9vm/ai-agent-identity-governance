@@ -1,0 +1,23 @@
+[
+    {
+        "agent_id": "robot_001",
+        "agent_name": "Invoice Bot",
+        "action": "read",
+        "decision": "ALLOW",
+        "time": "2026-07-01 00:05:06"
+    },
+    {
+        "agent_id": "robot_002",
+        "agent_name": "Report Bot",
+        "action": "write",
+        "decision": "ALLOW",
+        "time": "2026-07-01 00:05:06"
+    },
+    {
+        "agent_id": "robot_003",
+        "agent_name": "Cleanup Bot",
+        "action": "delete",
+        "decision": "PENDING",
+        "time": "2026-07-01 00:05:06"
+    }
+]
