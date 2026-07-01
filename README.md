@@ -34,3 +34,4 @@ python agent.py
 
 ## Author
 Abhinav Kumar Mittal
+<img width="1268" height="1997" alt="DocScanner 1 Jul 2026 09-19" src="https://github.com/user-attachments/assets/237482e1-bbb7-4055-a99d-4e362f22e009" />
